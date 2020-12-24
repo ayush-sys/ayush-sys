@@ -9,8 +9,8 @@ Student and Web Developer
 - ⚡ Hobbies: Listening Music and Watching Movies.
 
 ### LANGUAGES AND TOOLS : 
-React JS
-IntelliJ IDEA
+React JS<br/>
+IntelliJ IDEA<br/>
 VS Code Text editor
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-sys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
