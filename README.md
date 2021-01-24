@@ -8,8 +8,16 @@ Student and Web Developer
 - 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ayush-pattanayak-32225b202/)&nbsp;
 - ⚡ Hobbies: Listening Music and Watching Movies.
 
+
+### LANGUAGES : 
+- Java
+- JavaScript
+
+
 ### TOOLS : 
-VS Code Text editor</br>
-IntelliJ IDEA
+- VS Code Text editor</br>
+- IntelliJ IDEA
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-sys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
