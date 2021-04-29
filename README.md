@@ -11,6 +11,7 @@ Student and Web Developer
 
 ### LANGUAGES : 
 - Java
+- Python
 - JavaScript
 
 
