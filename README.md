@@ -4,7 +4,7 @@ Full Stack MERN Developer</br>
 
 ### 📖 ABOUT : 
 - 👨‍💻 Full stack MERN developer
-- 🎯 Machine learning & Deep Learning enthusiast.
+- 🎯 Machine learning & Deep learning enthusiast.
 - 📚Love to geek about Tech.
 - 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ayush-pattanayak-32225b202/)&nbsp;</br>
 
