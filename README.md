@@ -1,12 +1,10 @@
 ### Hi there 👋, I'm Ayush
-Full Stack MERN Developer</br>
 
 
 ### 📖 ABOUT : 
-- 👨‍💻 Full stack MERN developer
-- ✏️Learning Deep learning with Tensorflow & Keras.
-- 🎯 Machine learning & Deep learning enthusiast.
-- 📚Love to geek about Tech.
+- 👨‍💻 Full stack MERN developer | Machine learning
+- ✏️ Learning DevOps & cloud computing.
+- 📚 Love to geek about Tech & Gadgets.
 - 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ayush-pattanayak-32225b202/)&nbsp;</br>
 
 
