@@ -2,9 +2,9 @@
 
 
 ### 📖 ABOUT : 
-- 👨‍💻 Full stack MERN developer | Machine learning
-- 🚀 Currently learning & developing apps with Next JS
-- 🎯 Interested in Cloud computing & Web 3.0
+- 👨‍💻 Full stack MERN developer
+- 🚀 Interested in Cloud computing & Web 3.0
+- 🎯 Currently learning Python, wanted to be a full-stack python developer
 - 📚 Love to geek about Tech & Gadgets
 - 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ayush-pattanayak-32225b202/)&nbsp;</br>
 
