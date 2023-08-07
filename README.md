@@ -2,9 +2,8 @@
 
 
 ### 📖 ABOUT : 
-- 👨‍💻 Full stack MERN developer
-- 🚀 Interested in Cloud computing & Web 3.0
-- 🎯 Currently learning Python, wanted to be a full-stack python developer
+- 👨‍💻 Full stack MERN & Java J2EE developer
+- 🎯 Currently learning SpringBoot & DevSecOps
 - 📚 Love to geek about Tech & Gadgets
 - 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ayush-pattanayak-32225b202/)&nbsp;</br>
 
