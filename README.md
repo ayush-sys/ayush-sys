@@ -1,16 +1,13 @@
-## Hi there 👋
+Here's a README for your GitHub profile:
 
-<!--
-**ayush-sys/ayush-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Hi there 👋, I'm Ayush Pattanayak
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📖 ABOUT ME:
+- 👨‍💻 **Software Engineer** at **Comviva Technologies** specializing in Java and Spring Boot applications.
+- 💾 Experienced with **MySQL**, **PostgreSQL**, and in-memory databases like **VoltDB**.
+- 🛠️ Proficient in **deployment** using **Docker** and **Kubernetes**.
+- 🔍 Skilled in **monitoring** using **Prometheus** and **Grafana**.
+- 🌐 Hands-on experience with **React**, **Next.js**, and **Node.js**.
+- 🚀 Currently focused on expanding my skills in **backend development** and **DevOps**.
