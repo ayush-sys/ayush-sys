@@ -1,8 +1,6 @@
-Here's a README for your GitHub profile:
+### Hi there 👋, I'm Ayush Pattanayak
 
 ---
-
-### Hi there 👋, I'm Ayush Pattanayak
 
 ### 📖 ABOUT ME:
 - 👨‍💻 **Software Engineer** at **Comviva Technologies** specializing in Java and Spring Boot applications.
